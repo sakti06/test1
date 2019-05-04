@@ -1,2 +1,8 @@
 The first commit in a Git repository is a little different from    subsequent commits.
+<<<<<<< HEAD
 Let’s make some changes to the files and see how Git reacts. For    demonstration purposes, I’ve added a line to my_file,    and some extra words to an existing line in myfile2.    Let’s check the status of the repository by running git    status:
+=======
+
+In subsequent commits, Git is already tracking the    files you’re working on (unless you’re adding new files).
+So we’ll need    another important command, git diff, which shows you    the changes in the tracked files since the last commit.
+>>>>>>> 311c6b199a4ec5999c0f4f831d06ff3b3e25608b
