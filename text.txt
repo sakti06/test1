@@ -1,0 +1,2 @@
+The first commit in a Git repository is a little different from    subsequent commits.
+
