@@ -1,2 +1,4 @@
 The first commit in a Git repository is a little different from    subsequent commits.
 
+In subsequent commits, Git is already tracking the    files you’re working on (unless you’re adding new files).
+So we’ll need    another important command, git diff, which shows you    the changes in the tracked files since the last commit.
