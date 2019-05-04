@@ -1,2 +1,2 @@
 The first commit in a Git repository is a little different from    subsequent commits.
-
+Let’s make some changes to the files and see how Git reacts. For    demonstration purposes, I’ve added a line to my_file,    and some extra words to an existing line in myfile2.    Let’s check the status of the repository by running git    status:
